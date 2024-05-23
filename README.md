@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edvin28
+- 👋 Hi, I’m @Entvin
 - 👀 I’m interested in control in chemical processes and automation 
 - 🌱 I’m currently learning python 'n' matlab
 - 💞️ I’m looking to collaborate on process control coding and automation and machine learning optimization thechniques
